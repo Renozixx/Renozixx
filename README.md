@@ -1,16 +1,38 @@
 ## Hi there 👋
+My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web Development Skills.
+In love with Competitive Programing.
+Currently:
+- studying computer engineering (UNITAU).
 
-<!--
-**Renozixx/Renozixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Stats
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
+### Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
+
+### Back-End
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+</div>
+
+### Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
