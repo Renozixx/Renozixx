@@ -1,4 +1,3 @@
-<main style="background-color: #000000">
 ## Hi there 👋
 My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web Development Skills.
 In love with Competitive Programing.
@@ -38,4 +37,3 @@ Currently:
 <div>
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-</main>
