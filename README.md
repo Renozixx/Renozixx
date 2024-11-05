@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web Development Skills.
+My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web Development Skills. 
 In love with Competitive Programing.
 Currently:
 - studying computer engineering (UNITAU).
