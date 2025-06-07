@@ -9,7 +9,7 @@ Currently:
 <div>
 <a href="https://github.com/Renozixx">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renozixx&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Renzixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Renozixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Languages
