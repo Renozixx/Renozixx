@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web Development Skills. 
-In love with Competitive Programing.
+In love with Competitive Programing (2025 SBC Contest Finalist).
 Currently:
-- studying computer engineering (UNITAU).
-- Working as an Internet at LG Eletronics
+- Studying Computer Engineering (UNITAU).
+- Working as an Internet at LG Eletronics.
 
 ### My GitHub Stats
 <div>
