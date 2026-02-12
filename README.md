@@ -3,7 +3,7 @@ My name is Vinicius Ribeiro Renó, I'm a Devloper, currently working on my Web D
 In love with Competitive Programing (2025 SBC Contest Finalist).
 Currently:
 - Studying Computer Engineering (UNITAU).
-- Working as an Internet at LG Eletronics.
+- Working as a Junior Analyst at LG Eletronics.
 
 ### My GitHub Stats
 <div>
