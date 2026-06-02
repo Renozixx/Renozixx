@@ -6,10 +6,25 @@ Currently:
 - Working as a Junior Analyst at LG Eletronics.
 
 ### My GitHub Stats
-<div>
-<a href="https://github.com/Renozixx">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renozixx&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Renozixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- Stats principais -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<!-- Contador de visitas -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ff69b4&style=flat-square&label=✨+visitantes+✨" alt="Contador de visitas"/>
+</div>
+
+<!-- Streak (contribuições diárias) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<!-- Gráfico de atividade -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula&area=true&hide_border=false" width="90%"/>
 </div>
 
 ### Languages
