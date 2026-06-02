@@ -8,23 +8,18 @@ Currently:
 ### My GitHub Stats
 <!-- Stats principais -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<!-- Contador de visitas -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ff69b4&style=flat-square&label=✨+visitantes+✨" alt="Contador de visitas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renozixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renozixx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- Streak (contribuições diárias) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renozixx&theme=dracula&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 <!-- Gráfico de atividade -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula&area=true&hide_border=false" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renozixx&theme=dracula&area=true&hide_border=false" width="90%"/>
 </div>
 
 ### Languages
