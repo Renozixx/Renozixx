@@ -5,8 +5,6 @@ Currently:
 - Studying Computer Engineering (UNITAU).
 - Working as a Junior Analyst at LG Eletronics.
 
-## 🛠️ Minhas Stacks
-
 ### 🚀 Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
