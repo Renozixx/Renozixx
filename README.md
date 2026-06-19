@@ -35,3 +35,11 @@ Currently:
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### :bar_chart: My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tifanymoreira&show_icons=true&theme=radical&rank_icon=github" alt="Tifany Luiza's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifanymoreira&layout=compact&theme=radical" alt="Top Languages" />
+</p>
