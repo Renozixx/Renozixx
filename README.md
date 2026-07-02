@@ -39,7 +39,7 @@ Currently:
 ### :bar_chart: My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renozixx&show_icons=true&theme=radical&rank_icon=github" alt="Tifany Luiza's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renozixx&show_icons=true&theme=radical&rank_icon=github" alt="Renozixx's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renozixx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
